@@ -1,0 +1,17 @@
+
+apiKeys:
+    eos: Your_API_Key
+
+# zoneVegUrls:
+#     postUrl: https://api-connect.eos.com/zoning/
+#     getUrl: https://api-connect.eos.com/zoning/maps/
+#     # veg: vegetation-map
+#     # pro: productivity-map
+
+fieldUrls:
+    postCreateField: https://api-connect.eos.com/field-management
+
+# zoneProUrls:
+#     postUrl: https://api-connect.eos.com/zoning/
+#     getUrl: https://api-connect.eos.com/zoning/maps/
+
